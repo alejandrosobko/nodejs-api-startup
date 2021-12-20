@@ -1,8 +1,8 @@
 # NodeJS REST API basic project structure
 
-This is a basic project structure with NodeJS REST API + MongoDB.
+NodeJS REST API + MongoDB + Typescript + githooks pre-push (eslint).
 
-The project contains a Post model connected with route, controller, service and model connected to mongo DB. It can be used as a guide to continue adding more.
+The project contains a Post model with route, controller and service all connected to mongo DB. It can be used as a guide to continue adding more.
 
 
 ## Development
